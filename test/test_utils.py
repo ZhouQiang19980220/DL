@@ -1,5 +1,5 @@
-from packages import *
-from utils import *
+from zqdl.packages import *
+from zqdl.utils import *
 
 class TestGetDevice(TestCase):
 
