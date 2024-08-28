@@ -2,4 +2,6 @@
 __pycache__/
 
 # egg-info
-DL.egg-info/
+zqdl.egg-info/
+build/
+dist/
