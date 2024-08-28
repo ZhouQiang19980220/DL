@@ -1,7 +1,7 @@
 """
 Some utility functions for deep learning
 """
-from packages import *
+from .packages import *
 
 def get_cuda(idx: int = 0) -> torch.device:
     """
